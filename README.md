@@ -6,9 +6,9 @@ Create a bar chart or histogram to visualize the distribution of a categorical o
 
 Sample Dataset: [World Bank Population Data](https://data.worldbank.org/indicator/SP.POP.TOTL)
 
-*Note: It's not compulsory to use the provided dataset.*
+*Note: It's not compulsory to use the provided dataset. Additionally, Data Science Interns can use tools like MS Excel, Power BI, Tableau & Google Sheets too.*
 
-Here is my proposed solution for the Prodigy visualization task:
+Here is my proposed solution for the Prodigy visualization task using Tableau:
 
 1. Data Cleaning: I performed data cleaning within Tableau itself. You can observe the presence of null values in the initial dataset before the cleaning process in the video linked below my solution.
 2. Filter Application: I applied filters to display the population data for the year 2004 in the form of a bar graph, showing only populations greater than one billion.
