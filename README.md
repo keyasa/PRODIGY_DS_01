@@ -11,7 +11,7 @@ Sample Dataset: [World Bank Population Data](https://data.worldbank.org/indicato
 Here is my proposed solution for the Prodigy visualization task using Tableau:
 
 1. Data Cleaning: I performed data cleaning within Tableau itself. You can observe the presence of null values in the initial dataset before the cleaning process in the video linked below my solution.
-2. Filter Application: I applied filters to display the population data for the year 2004 in the form of a bar graph, showing only populations greater than one billion.
+2. Filter Application: I applied filters to display the population data for the year 2004 in the form of a bar graph, showing only populations greater than hundred million.
 3. Histogram Comparison: I also included a histogram solution, both before and after removing null values, for comparison.
 
 Link to My Solution Video for Prodigy Task 1:
